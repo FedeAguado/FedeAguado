@@ -1,6 +1,6 @@
 # Hi, I'm Federico 👋
 
-### 💻 Junior Full Stack Developer | Backend Enthusiast
+### 💻 Junior Full Stack Developer 
 
 I'm a developer based in Spain 🇪🇸, currently working as a **Junior Full Stack Developer Intern at Educa360**, gaining hands-on experience building and maintaining web applications.
 
