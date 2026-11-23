@@ -4,8 +4,6 @@
 
 I'm a developer based in Spain 🇪🇸, currently working as a **Junior Full Stack Developer Intern at Educa360**, gaining hands-on experience building and maintaining web applications.
 
-I'm passionate about backend development, software engineering, and continuously improving my skills.
-
 
 <!--
 **FedeAguado/FedeAguado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
